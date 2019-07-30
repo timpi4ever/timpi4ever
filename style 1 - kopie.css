@@ -1,0 +1,52 @@
+.rood{
+  color:red;
+}
+.groen{
+  color: green;
+}
+.blauw{
+  color: blue;
+}
+.geel{
+  color:purple;
+}
+
+h1{
+  color: red;
+}
+a{
+  text-decoration: none;
+  color: red;
+}
+.main {
+  width: auto;
+  height: auto;
+}
+.container{
+  display: inline-block;
+
+}
+.login{
+  width: 150 px;
+  height: 30 px ;
+  float: left;
+
+}
+.login a {
+  display: block;
+  color: black;
+  float: left;
+  line-height: 33 px ;
+  width: 50 px;
+}
+.cart img{
+  widt:10%;
+  height: 5%;
+  float: right;
+}
+.cart span {
+  height: 100px ;
+  line-height: 100px;
+  color: yellow;
+
+}
